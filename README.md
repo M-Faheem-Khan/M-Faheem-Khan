@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 👀 Seeking for InfoSec Internship
 - 🔭 I’m currently working on Recreational Management Software
 - 🌱 I’m currently learning Typescript + Mongodb + Go
 - 🤔 I’m looking to help with OSS
