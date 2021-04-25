@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 👀 Seeking for InfoSec Internship
-- 🔭 I’m currently working on Recreational Management Software
-- 🌱 I’m currently learning Typescript + Mongodb + Go
-- 🤔 I’m looking to help with OSS
+- Incoming Incident Responder @ Hootsuite
+- Interested in Forensics / Malware / Threat Hunting / CTF
 - 📫 How to reach me: faheem5948@gmail.com
 - Blog: https://m-faheem-khan.github.io/min-blog/
 
