@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Incoming Incident Responder @ Hootsuite
+- Incident Responder (Co-op) @ Hootsuite
 - Interested in Forensics / Malware / Threat Hunting / CTF
 - Learning Infrastructure automation and orchestration
 - 📫 How to reach me: faheem5948@gmail.com
