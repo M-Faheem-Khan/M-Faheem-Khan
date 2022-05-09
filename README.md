@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-- Incident Responder (Co-op) @ [Hootsuite](https://github.com/hootsuite)
+- Junior Cyber Incident Responder @ [Hootsuite](https://github.com/hootsuite)
 - Interested in Forensics / Malware / Threat Hunting / Fuzzing / Binary Exploitation / CTF
 - 📫 How to reach me: faheem5948@gmail.com
 - https://www.linkedin.com/in/muhammad-faheem-khan/
+
+
+### Posts
+- [Automating Ow.ly Abuse Responses](https://medium.com/hootsuite-engineering/automating-ow-ly-abuse-responses-ecb2b5bc44b8)
