@@ -8,3 +8,7 @@
 
 ### Posts
 - [Automating Ow.ly Abuse Responses](https://medium.com/hootsuite-engineering/automating-ow-ly-abuse-responses-ecb2b5bc44b8)
+
+### Open Source Contributions
+- [Rottingresearch](https://github.com/marshalmiller/rottingresearch)  
+<!-- EOF -->
