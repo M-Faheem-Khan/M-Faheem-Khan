@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Junior Cyber Incident Response @ [Hootsuite](https://github.com/hootsuite)
+- Ex. Junior Cyber Incident Response @ [Hootsuite](https://github.com/hootsuite)
 - Interested in Forensics / Malware / Threat Hunting / CTF
 - 📫 How to reach me: faheem5948@gmail.com
 - https://www.linkedin.com/in/muhammad-faheem-khan/
