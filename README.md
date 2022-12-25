@@ -12,4 +12,6 @@
 ### Open Source Contributions
 - [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool)
 - [marshalmiller/rottingresearch](https://github.com/marshalmiller/rottingresearch)  
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Shrek.png" alt="TryHackMe">
 <!-- EOF -->
