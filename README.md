@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- Security Application Architect @ [Plusgrade](https://github.com/plusgrade)
+- Security Engineer @ [Plusgrade](https://github.com/plusgrade)
 - Preparing for OSCP
-- Interested in Forensics / Malware / Threat Hunting / CTF
+- Interested in Application Security / Malware / Threat Hunting 
 - 📫 How to reach me: faheem5948@gmail.com
 - https://www.linkedin.com/in/muhammad-faheem-khan/
 
