@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 - Security Engineer @ [Plusgrade](https://github.com/plusgrade)
-- Preparing for OSCP
-- Interested in Application Security / Malware / Threat Hunting 
-- 📫 How to reach me: faheem5948@gmail.com
+- Interested in Application Security / DevSecOps / Threat Hunting 
 - https://www.linkedin.com/in/muhammad-faheem-khan/
 
-
 ### Posts
+- [Why should you use Githooks?](https://faheems-musing.com/githooks)
 - [Automating Ow.ly Abuse Responses](https://medium.com/hootsuite-engineering/automating-ow-ly-abuse-responses-ecb2b5bc44b8)
 
 ### Open Source Contributions
